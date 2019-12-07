@@ -5,8 +5,6 @@ While the game is simple in skill, the goal was to study DOM manipulation in Rea
 
 * Built using React, JavaScript, CSS Grid, Flexbox
 
-![](https://github.com/ryanadiaz/clickygame/blob/master/clickygame.gif)
-
 * **For testing purposes, variables are logged in the Console**
 
 Live Demo: [https://ryanadiaz.github.io/clickygame/](https://ryanadiaz.github.io/clickygame/)

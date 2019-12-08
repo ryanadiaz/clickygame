@@ -2,61 +2,61 @@
   {
     "id": 1,
     "name": "Ace of Diamonds",
-    "image": "/images/ace-diamonds.png"
+    "image": "images/ace-diamonds.png"
   },
   {
     "id": 2,
     "name": "2 of Diamonds",
-    "image": "/images/2-diamonds.png"
+    "image": "images/2-diamonds.png"
   },
   {
     "id": 3,
     "name": "3 of Diamonds",
-    "image": "/images/3-diamonds.png"
+    "image": "images/3-diamonds.png"
   },
   {
     "id": 4,
     "name": "4 of Diamonds",
-    "image": "/images/4-diamonds.png"
+    "image": "images/4-diamonds.png"
   },
   {
     "id": 5,
     "name": "Ace of Spades",
-    "image": "/images/ace-spades.png"
+    "image": "images/ace-spades.png"
   },
   {
     "id": 6,
     "name": "Ace of Diamonds",
-    "image": "/images/ace-diamonds.png"
+    "image": "images/ace-diamonds.png"
   },
   {
     "id": 7,
     "name": "Jack of Spades",
-    "image": "/images/jack-spades.png"
+    "image": "images/jack-spades.png"
   },
   {
     "id": 8,
     "name": "King of Spades",
-    "image": "/images/king-spades.png"
+    "image": "images/king-spades.png"
   },
   {
     "id": 9,
     "name": "Queen of Spades",
-    "image": "/images/queen-spades.png"
+    "image": "images/queen-spades.png"
   },
   {
     "id": 10,
     "name": "8 of Spades",
-    "image": "/images/8-spades.png"
+    "image": "images/8-spades.png"
   },
   {
     "id": 11,
     "name": "10 of Spades",
-    "image": "/images/10-spades.png"
+    "image": "images/10-spades.png"
   },
   {
     "id": 12,
     "name": "Joker",
-    "image": "/images/joker.png"
+    "image": "images/joker.png"
   }
 ]

@@ -7,6 +7,6 @@ While the game is simple in skill, the goal was to study DOM manipulation in Rea
 
 * **For testing purposes, variables are logged in the Console**
 
-Live Demo: [https://ryanadiaz.github.io/clickygame/](https://ryanadiaz.github.io/clickygame/)
+Live Demo: [http://ryanadiaz.com/clickygame/](http://ryanadiaz.com/clickygame/)
 
 ![screenshot](./public/images/clicky-game.jpg)
